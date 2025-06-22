@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ngl3v323h-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ngl3v323h-dotnet-basic
